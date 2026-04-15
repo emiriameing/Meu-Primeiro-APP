@@ -7,7 +7,8 @@
     {"id": 3, "task": "Criar meu primeiro Pipeline"},
     {"id": 4, "task": "Fazer meu primeiro Deploy"},
     {"id": 5, "task": "Primeiro Pipeline Actions"},
-    {"id": 6, "task": "Novas Tarefas 01"},
-    {"id": 7, "task": "Novas Tarefas 02"}
+    {"id": 6, "task": "Tarefas"},
+    {"id": 7, "task": "Novas Tarefas 01"},
+    {"id": 8, "task": "Novas Tarefas 02"}
   ]
 }
